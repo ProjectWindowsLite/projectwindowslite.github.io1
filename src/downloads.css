@@ -1,0 +1,21 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #fff;
+}
+
+.head {
+    padding-top: 15%;
+}
+
+h2 {
+    color: #b30f0f;
+}
+
+a {
+    color: #006de9;
+}
+
+a:hover {
+    color: #006de98f;
+}

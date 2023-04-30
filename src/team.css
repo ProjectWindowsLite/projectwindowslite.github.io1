@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.head {
+    background-color: #7600ad;
+    color: #fff;
+    padding-top: 40vh;
+    padding-bottom: 50vh;
+    background-position: top;
+}
+
+.main {
+    padding-top: 35vh;
+    padding-bottom: 25vh;
+    opacity: 1;
+}
+
+.team{
+    display: inline-flex;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover {
+    color: #006de9;
+}

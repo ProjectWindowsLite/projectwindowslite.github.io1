@@ -1,0 +1,34 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.head {
+    background-color: blueviolet;
+    color: #fff;
+    padding-top: 40vh;
+    padding-bottom: 46vh;
+    background-position: top;
+}
+
+.downloads {
+    padding-top: 35vh;
+    padding-bottom: 25vh;
+}
+
+a {
+    color: #006de9;
+}
+
+a:hover {
+    color: #006de98f;
+}
+
+.end a {
+    color: #000000;
+} 
+.end a:hover {
+    color: #006de9;
+}
+    
+
