@@ -1,13 +1,11 @@
 body {
     font-family:'Segoe UI';
     text-align: center;
-    background-color: #000000;
-    color: #000000;
+    background-image: linear-gradient(#071d3f, #000000);
     color: #fff;
 }
 
 .head {
-    background-color: #030E1F;
     color: #fff;
     padding-top: 25vh;
     padding-bottom: 49vh;
@@ -25,7 +23,7 @@ body {
 
 
 a {
-    color: #000000;
+    color: #fff;
 }
 
 a:hover {
