@@ -1,12 +1,11 @@
 body {
     font-family:'Segoe UI';
     text-align: center;
-    background-color: #000000;
+    background-image: linear-gradient(#253279, #000000);
     color: #fff;
 }
 
 .head {
-    background-color: #0d174e;
     color: #fff;
     padding-top: 40vh;
     padding-bottom: 46vh;
