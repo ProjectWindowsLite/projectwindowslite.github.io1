@@ -1,10 +1,12 @@
 body {
     font-family:'Segoe UI';
     text-align: center;
+    background-color: #000000;
+    color: #000000;
 }
 
 .head {
-    background-color: #7600ad;
+    background-color: #030E1F;
     color: #fff;
     padding-top: 25vh;
     padding-bottom: 49vh;
